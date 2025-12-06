@@ -143,7 +143,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [jawad2005-mj]
 
 ## 🤝 Contributing
 
@@ -168,3 +168,4 @@ For any queries or suggestions, feel free to reach out!
 ---
 
 ⭐ Star this repo if you find it helpful!
+
